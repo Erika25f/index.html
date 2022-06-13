@@ -1,0 +1,223 @@
+#font {
+  font-family: Futura;
+}
+.background {
+  margin: 0px;
+  background-image: url("immagini/background.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+#topdiv {
+  border-bottom: 3px solid red;
+  opacity: 0, 3;
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  height: 62px;
+  margin: 0px;
+}
+.bandiere {
+  width: 60px;
+  height: 40px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+#bandieraitalia {
+  margin-left: 50px;
+}
+#divtop {
+  height: 100px;
+}
+.box {
+  border: 1px;
+  max-width: 600px;
+  margin: auto;
+  background-color: orange;
+  border-radius: 20px;
+  text-align: center;
+}
+#divseparatore {
+  height: 10px;
+}
+#divcookie {
+  color: white;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  width: 100px;
+  text-align: center;
+}
+#acme {
+  color: white;
+  margin-top: -55px;
+  color: white;
+  text-align: center;
+}
+#ptop {
+  color: white;
+  margin-top: -17px;
+  color: white;
+  text-align: center;
+}
+.h1box {
+  padding-top: 20px;
+}
+.pbox {
+  padding-bottom: 20px;
+}
+.divspazio {
+  height: 30px;
+}
+#firstbox {
+  margin: auto;
+  background-color: hsl(0, 0%, 6%);
+  height: auto;
+  border: 3px solid white;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  width: 1300px;
+}
+.material-symbols-rounded {
+  font-size: 70px !important;
+}
+.info {
+  color: white;
+  font-size: 20px;
+}
+#welcome {
+  margin: auto;
+  background-color: black;
+  padding: 20px;
+  color: white;
+  height: auto;
+  width: 1300px;
+  border: 3px solid white;
+}
+#button {
+  width: auto;
+  margin: 50px;
+}
+#offertaformativa {
+  margin: auto;
+  background-color: black;
+  padding: 20px;
+  color: white;
+  height: auto;
+  width: 1300px;
+  border: 3px solid white;
+}
+#imuniv {
+  margin-left: 40px;
+  width: 560px;
+  height: auto;
+}
+#dipartimenti {
+  height: auto;
+  border: 3px solid white;
+  width: 1300px;
+  background-color: hsl(0, 0%, 6%);
+  margin: auto;
+}
+#internodip {
+  width: 1000px;
+  margin: auto;
+  padding-top: 30px;
+}
+.listedip {
+  margin: auto;
+  color: white;
+}
+.scuola {
+  text-align: center;
+  font-size: 24px;
+}
+.lista {
+  type: disc;
+  padding-left: 240px;
+  padding-top: 15px;
+}
+footer {
+  background-color: black;
+  color: white;
+  width: 100%;
+  margin-top: 30px;
+}
+.footercontent {
+  max-width: 350px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 12px;
+}
+.top {
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  width: 55px;
+  text-align: center;
+  padding: 6px;
+}
+#toparrow {
+  max-width: 50px;
+}
+.solidh2 {
+  margin: 70px 0px 70px 0px;
+  border-left: 10px solid hsl(0, 100%, 70%);
+  padding-left: 20px;
+}
+#solidbot1 {
+  font-size:2.5rem;
+  margin: 20px 0px 20px 0px;
+  border-bottom: 5px solid hsl(0, 100%, 70%);
+  width: 320px;
+}
+#solidbot2 {
+  font-size:2.5rem;
+  margin: 20px 0px 20px 0px;
+  border-bottom: 5px solid hsl(0, 100%, 70%);
+  width: 345px;
+}
+#listabot {
+  type: disc;
+  padding-left: 40px;
+  padding-top: 5px;
+}
+.nomargin {
+  margin: 0px;
+}
+#durata{
+  margin: auto;
+  background-color: black;
+  padding: 20px;
+  color: white;
+  height: auto;
+  width: 1300px;
+  border: 3px solid white;
+}
+#borse{
+  margin: auto;
+  background-color: black;
+  padding: 20px;
+  color: white;
+  height: auto;
+  width: 1300px;
+  border: 3px solid white;
+}
+#contatti {
+  font-size:2.5rem;
+  margin:auto;
+  text-align:center;
+  border
+}
+#contattibox {
+  margin: auto;
+  background-color: black;
+  border-radius:20px;
+  padding: 20px;
+  color: white;
+  height: 410px;
+  width: 1300px;
+  border: 6px solid hsl(0, 100%, 70%);
+  
+  }
